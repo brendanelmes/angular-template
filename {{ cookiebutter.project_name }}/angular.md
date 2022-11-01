@@ -1,0 +1,1 @@
+{{ cookiecutter.hello_world }}
